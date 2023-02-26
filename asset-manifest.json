@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopPet/static/css/main.6cdd585f.css",
+    "main.js": "/shopPet/static/js/main.3bcdc70f.js",
+    "index.html": "/shopPet/index.html",
+    "main.6cdd585f.css.map": "/shopPet/static/css/main.6cdd585f.css.map",
+    "main.3bcdc70f.js.map": "/shopPet/static/js/main.3bcdc70f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cdd585f.css",
+    "static/js/main.3bcdc70f.js"
+  ]
+}
